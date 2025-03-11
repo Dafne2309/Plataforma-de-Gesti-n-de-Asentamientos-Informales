@@ -1,2 +1,2 @@
-# Plataforma-de-Gestinn-de-Asentamientos-Informales
+# Plataforma-de-Gestion-de-Asentamientos-Informales
 Proyecto asignatura Programación de bases de datos
